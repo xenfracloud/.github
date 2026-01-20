@@ -1,7 +1,7 @@
 # <p align="center">Xenfra: The Sovereign Infrastructure Engine</p>
 
 <p align="center">
-  <img src="./static/logo.png" alt="Xenfra Logo" width="200"/>
+  <img src="../static/logo.png" alt="Xenfra Logo" width="200"/>
 </p>
 
 <p align="center">
