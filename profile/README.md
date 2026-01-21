@@ -43,8 +43,8 @@ We believe in **Sovereign Open Source**. We welcome contributions that harden th
 ---
 
 ### 📬 Connect with the Architects
-* **Website:** [xenfra.com](https://xenfra.tech)
-* **Documentation:** [docs.xenfra.com](https://docs.xenfra.tech)
+* **Website:** [xenfra.tech](https://xenfra.tech)
+* **Documentation:** [docs.xenfra.tech](https://docs.xenfra.tech)
 * **Support:** Open an issue or contact `xenfracloud@gmail.com`
 
 <p align="center">
