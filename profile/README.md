@@ -23,7 +23,7 @@ Our mission is to move the industry from Infrastructure-as-Code to **Infrastruct
 Explore our ecosystem of autonomous infrastructure tools:
 
 * **[Xenfra CLI](https://github.com/xenfracloud/xenfra-cli)**: The "Body" for deterministic command execution across DigitalOcean, GCP, and Azure.
-* **[MCP Server](https://github.com/xenfracloud/mcp-server)**: A Model Context Protocol implementation giving LLMs physical, safe hands in the cloud.
+* **[MCP Server](https://github.com/xenfracloud/xenfra-mcp)**: A Model Context Protocol implementation giving LLMs physical, safe hands in the cloud.
 
 ---
 
