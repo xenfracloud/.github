@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://xenfra.com"><img src="https://img.shields.io/badge/Website-Xenfra-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://xenfra.tech"><img src="https://img.shields.io/badge/Website-Xenfra-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://twitter.com/xenfracloud"><img src="https://img.shields.io/badge/X-Follow%20Us-black?style=for-the-badge&logo=x&logoColor=white" alt="X Follow"/></a>
   <a href="https://linkedin.com/company/xenfracloud"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
